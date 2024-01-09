@@ -1,0 +1,11 @@
+https://restaging.50hertz.in
+https://hea.50hertz.in/HEA_UI
+http://crm.manikaranpowerltd.in/omsnew/#!
+https://authops.50hertz.in/auth-launcher
+https://ci.50hertz.in(jenkins)
+adminuiqa.50hertz.in
+https://50hertz.in:8443/blcc/
+
+
+
+
